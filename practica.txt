@@ -1,1 +1,4 @@
 Hola ¿como estas?
+x = 3
+if x < 10:esto es una condicion 
+print('pequeño')
